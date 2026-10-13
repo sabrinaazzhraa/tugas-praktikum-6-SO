@@ -43,7 +43,7 @@ Jawab:
 Perbedaan kedua utulitas tersebut adalah:
 - Perintah su mahasiswa: digunakan untuk berpindah ke user mahasiswa tanpa memuat lingkungan login secara lengkap
   
-- su - mahasiswa digunakan: untuk berpindah ke user mahasiswa dengan memuat lingkungan login seperti saat user tersebut login secara langsung.
+- su - mahasiswa: digunakan untuk berpindah ke user mahasiswa dengan memuat lingkungan login seperti saat user tersebut login secara langsung.
 
 2. Prompt String (PS)
 
